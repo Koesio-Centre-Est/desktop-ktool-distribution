@@ -1,8 +1,9 @@
 {
-  "content": ""
-  "dates": []
-  "versions": [
-    "1.2.0": "",
-    "1.2.1": ""
+  "messages": [
+    {
+      "id": "premier-message",
+      "type": "message",
+      "body": "Bonjour, c'est le premier message distant récupéré par DKT, c'est superbe !\nIl pourra y avoir ici les notes de version par exemple, mais aussi des alertes ou d'autres choses très intéressantes"
+    }
   ]
 }
