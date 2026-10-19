@@ -1,9 +1,20 @@
 {
   "messages": [
     {
-      "id": "premier-message",
-      "type": "message",
-      "body": "Bonjour, c'est le premier message distant récupéré par DKT, c'est superbe !\nIl pourra y avoir ici les notes de version par exemple, mais aussi des alertes ou d'autres choses très intéressantes"
+      "id": "release-2.0",
+      "type": "release",
+      "version": "2.0.0",
+      "title": "La suite KTool 2.0 est là !",
+      "body": "Avec plus d'interconnectivité, de praticité, et les yeux tournés vers l'IA.\nVous aurez remarqué une nouvelle interface, plus moderne, et compatible avec le thème sombre, mais ce n'est pas tout :",
+      "items": [
+        "Super recherche enrichie : clients Artis, URLs enregistrées, filtres, et un « meilleur résultat » qui réunit le dossier client, Artis et l'amoire Zeendoc",
+        "Une fiche par dossier client (client.dktdata) : code Artis, armoires Zeendoc et contacts, ouverte d'un double-clic",
+        "Lien entre dossiers clients et leurs armoires Zeendoc, avec des infos libres pour chaque armoire",
+        "Dossier de configuration partagée pour toute l'équipe : solutions, modèles de mails et URLs",
+        "Extension navigateur connectée à Desktop KTool : elle y retrouve les identifiants Manage et les infos d'armoire (pour le moment)",
+        "Serveur MCP : vos assistants IA (Claude Code, Codex) peuvent consulter le Manage Zeendoc, et ne modifient quoi que ce soit qu'après votre accord",
+        "Nouveaux outils : page RFE Zeendoc Manage, modèles de mails, convertisseur de texte et avancement de la journée"
+      ]
     }
   ]
 }
